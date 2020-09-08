@@ -198,7 +198,7 @@ JiA同学的代码人生，梦想成长为一名优秀的Architect（a7t）。�
   - DDD
 - 业务架构设计
   - 秒杀
-  - IM
+  - [IM](http://www.52im.net/)
   - 红包
 
 - 通用方案
