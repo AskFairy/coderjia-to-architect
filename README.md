@@ -176,12 +176,13 @@ JiA同学的代码人生，梦想成长为一名优秀的Architect（a7t）。�
     - Dubbo
     - Thrift
     - gRPC
-  - API网关
-    - Nginx
-    - OpenResty
-    - Kong
-  - Docker
-  - Kubernetes
+- Service Mesh
+- API Gateway
+  - Nginx
+  - OpenResty
+  - Kong
+- Docker
+- Kubernetes
 
 ### 大数据
 
@@ -202,4 +203,9 @@ JiA同学的代码人生，梦想成长为一名优秀的Architect（a7t）。�
 
 - 通用方案
   - 分库分表
+
+### 运维
+
+- Linux
+- Git
 
