@@ -25,7 +25,68 @@ JiA同学的代码人生，梦想成长为一名优秀的Architect（a7t）。�
   - 网络攻击
 - 数据结构与算法
   - 数据结构
+    - 数组链表跳表（16）
+      - https://leetcode-cn.com/problems/container-with-most-water/   接雨水
+      - https://leetcode-cn.com/problems/move-zeroes/   将0移动到最后
+      - https://leetcode.com/problems/climbing-stairs/   爬楼梯
+      - https://leetcode-cn.com/problems/3sum/ (高频老题） 三数之和为0
+      - https://leetcode-cn.com/problems/reverse-linked-list/   链表逆序
+      - https://leetcode-cn.com/problems/swap-nodes-in-pairs
+      - https://leetcode-cn.com/problems/linked-list-cycle	判断链表是否有环
+      - https://leetcode-cn.com/problems/linked-list-cycle-ii
+      - https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
+      - https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
+      - https://leetcode-cn.com/problems/rotate-array/	将数组整体向后移动n个位置
+      - https://leetcode-cn.com/problems/merge-two-sorted-lists/	合并两个有序链表
+      - https://leetcode-cn.com/problems/merge-sorted-array/	合并两个有序数组
+      - https://leetcode-cn.com/problems/two-sum/
+      - https://leetcode-cn.com/problems/move-zeroes/
+      - https://leetcode-cn.com/problems/plus-one/	数字加一
+    - 栈和队列（6）
+      - https://leetcode-cn.com/problems/valid-parentheses/	括号匹配问题
+      - https://leetcode-cn.com/problems/min-stack/
+      - https://leetcode-cn.com/problems/largest-rectangle-in-histogram
+      - https://leetcode-cn.com/problems/sliding-window-maximum
+      - https://leetcode-cn.com/problems/design-circular-deque
+      - https://leetcode-cn.com/problems/trapping-rain-water/
+    - 哈希表和二叉树（8）
+      - https://leetcode-cn.com/problems/valid-anagram/description/
+      - https://leetcode-cn.com/problems/group-anagrams/
+      - https://leetcode-cn.com/problems/two-sum/description/
+      - https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
+      - https://leetcode-cn.com/problems/binary-tree-preorder-traversal/
+      - https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/
+      - https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/
+      - https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/
   - 算法
+    - 递归（12）
+      - https://leetcode-cn.com/problems/climbing-stairs/
+      - https://leetcode-cn.com/problems/generate-parentheses/
+      - https://leetcode-cn.com/problems/invert-binary-tree/description/
+      - https://leetcode-cn.com/problems/validate-binary-search-tree
+      - https://leetcode-cn.com/problems/maximum-depth-of-binary-tree
+      - https://leetcode-cn.com/problems/minimum-depth-of-binary-tree
+      - https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/
+      - https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/
+      - https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+      - https://leetcode-cn.com/problems/combinations/
+      - https://leetcode-cn.com/problems/permutations/
+      - https://leetcode-cn.com/problems/permutations-ii/
+    - 分治回溯（5）
+      - https://leetcode-cn.com/problems/powx-n/
+      - https://leetcode-cn.com/problems/subsets/
+      - https://leetcode-cn.com/problems/majority-element/description/
+      - https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
+      - https://leetcode-cn.com/problems/n-queens/
+    - 深度优先广度优先（8）
+      - https://leetcode-cn.com/problems/binary-tree-level-order-traversal/#/description
+      - https://leetcode-cn.com/problems/minimum-genetic-mutation/#/description
+      - https://leetcode-cn.com/problems/generate-parentheses/#/description
+      - https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/#/description
+      - https://leetcode-cn.com/problems/word-ladder/description/
+      - https://leetcode-cn.com/problems/word-ladder-ii/description/
+      - https://leetcode-cn.com/problems/number-of-islands/
+      - https://leetcode-cn.com/problems/minesweeper/description/
 - 设计模式
   - 面向对象设计原则
     - 开闭原则
